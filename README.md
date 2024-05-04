@@ -1,3 +1,0 @@
-# TestRemoteRepository
-
-Hello, World
